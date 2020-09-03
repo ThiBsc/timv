@@ -6,7 +6,7 @@ timv is a Terminal Image Viewer
 ## Install
 
 ```bash
-wget https://github.com/ThiBsc/timv/blob/master/timv.py
+wget https://raw.githubusercontent.com/ThiBsc/timv/master/timv.py
 mv timv.py /usr/local/bin/timv.py
 ```
 Add to your `~/.bash_aliases` this line:
